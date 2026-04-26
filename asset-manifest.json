@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/free_vocabulary_en_ru/static/css/main.1518701b.css",
+    "main.js": "/free_vocabulary_en_ru/static/js/main.4ff31393.js",
+    "static/js/453.01c3eb65.chunk.js": "/free_vocabulary_en_ru/static/js/453.01c3eb65.chunk.js",
+    "index.html": "/free_vocabulary_en_ru/index.html",
+    "main.1518701b.css.map": "/free_vocabulary_en_ru/static/css/main.1518701b.css.map",
+    "main.4ff31393.js.map": "/free_vocabulary_en_ru/static/js/main.4ff31393.js.map",
+    "453.01c3eb65.chunk.js.map": "/free_vocabulary_en_ru/static/js/453.01c3eb65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1518701b.css",
+    "static/js/main.4ff31393.js"
+  ]
+}
